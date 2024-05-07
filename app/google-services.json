@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428921088698",
+    "project_id": "collegeapp-edbd0",
+    "storage_bucket": "collegeapp-edbd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428921088698:android:71fc7eaf544b055735f083",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8FVlqHAHNC-nKf7CDAvEflB0OuVLN8xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
